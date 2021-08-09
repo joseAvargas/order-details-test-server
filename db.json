@@ -84,5 +84,46 @@
                 "status": "string",
                 "proofOfDelivery": "string"
             }]
-    }]
+    }],
+    "serial-numbers": {
+        "vendorLineNumber": "string",
+        "imLineNumber": "string",
+        "description": "string",
+        "quantity": "string",
+        "serialNumbers": [
+            "string1",
+            "string2"
+        ]
+    },
+    "license-info": {
+        "licenseNumbers": [
+            "string"
+        ],
+        "documents": [{
+                "description": "string",
+                "url": "string"
+            },
+            {
+                "description": "string",
+                "url": "string"
+            }
+        ],
+        "lines": [{
+                "product": "string",
+                "vendorLineNumber": "string",
+                "quantity": 10,
+                "startDate": "2021-06-05T14:48:00.000Z",
+                "endDate": "2021-06-05T14:48:00.000Z",
+                "serialDetails": "string"
+            },
+            {
+                "product": "string",
+                "vendorLineNumber": "string",
+                "quantity": 10,
+                "startDate": "2021-06-05T14:48:00.000Z",
+                "endDate": "2021-06-05T14:48:00.000Z",
+                "serialDetails": "string"
+            }
+        ]
+    }
 }
