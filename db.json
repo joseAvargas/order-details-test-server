@@ -1,99 +1,94 @@
 {
     "order-header": {
-        "orderNumber": "string",
-        "orderDate": "2021-06-05T14:48:00.000Z",
-        "resellerPO": "string",
-        "endUserPO": "string",
-        "status": true,
-        "addresses": [{
-            "addressType": "Shipping",
-            "name": "string",
-            "attention": "string",
-            "lines": [
-                "123 Address 1"
-            ],
-            "city": "Som Cit",
-            "state": "CA",
-            "postalCode": "string",
-            "country": "string",
-            "contactPhoneNumber": "string"
-        }],
-        "hasLicenseData": true,
-        "hasLSerialNumberData": true,
-        "hasTrackingNumberData": true,
-        "hasSoftwareServicesData": true,
-        "partnerLogoUrl": "string",
-        "orderComments": [
-            "string1",
-            "string2"
+        "ingramSalesOrderNumber": "20-95522-11",
+        "secondaryIngramSalesOrderNumbers": [],
+        "ingramSalesOrderDate": "2021-02-11",
+        "vendorOrderNumbers": [],
+        "resellerPONumber": "PO-KS-12345",
+        "endUserPONumber": "TEST",
+        "endUserNames": [
+            "TEST 101"
         ],
-        "orderLines": []
+        "paymentType": "NET 30 DAYS",
+        "addresses": [{
+            "addressType": "Billing",
+            "name": "INGRAM MICRO JOCELYN TEST ACCOUNT 3",
+            "attention": "",
+            "lines": [
+                "1759 WEHRLE DR"
+            ],
+            "city": "WILLIAMSVILLE",
+            "state": "NY",
+            "postalCode": "142217887",
+            "country": "US",
+            "contactPhoneNumber": "5554167664"
+        }],
+        "hasSerialNumbersData": "false",
+        "hasTrackingNumbersData": "false"
     },
     "order-lines": [{
-        "vendorLineNumber": "string",
-        "lineNumber": "string",
-        "imLineNumber": "string",
-        "description": "string",
-        "status": "string",
-        "hasAncillaryInfo": true,
-        "ancillaryInfo": [{
-            "quantity": 25,
-            "estimatedShipDate": "2021-06-05T14:48:00.000Z",
-            "actualShipDate": "2021-06-05T14:48:00.000Z",
-            "estimatedDeliveryDate": "2021-06-05T14:48:00.000Z",
-            "actualDeliveryDate": "2021-06-05T14:48:00.000Z",
-            "requestedDeliveryDate": "2021-06-05T14:48:00.000Z",
-            "manufacturerPlantInfo": "string",
-            "notes": [
-                "Note 1",
-                "Note 2"
+        "ingramSalesOrderNumber": "20-95522-11",
+        "secondaryIngramSalesOrderNumbers": [],
+        "ingramSalesOrderDate": "2021-02-11",
+        "vendorOrderNumbers": [],
+        "resellerPONumber": "PO-KS-12345",
+        "endUserPONumber": "TEST",
+        "endUserNames": [
+            "TEST 101"
+        ],
+        "paymentType": "NET 30 DAYS",
+        "addresses": [{
+            "addressType": "Billing",
+            "name": "INGRAM MICRO JOCELYN TEST ACCOUNT 3",
+            "attention": "",
+            "lines": [
+                "1759 WEHRLE DR"
             ],
-            "discountedAmount": 1.23,
-            "expirationDate": "2021-06-05T14:48:00.000Z",
-            "quantityLimit": 50
+            "city": "WILLIAMSVILLE",
+            "state": "NY",
+            "postalCode": "142217887",
+            "country": "US",
+            "contactPhoneNumber": "5554167664"
         }],
-        "quantityOrdered": 35,
-        "quantityShipped": 30,
-        "unitPrice": 3.35,
-        "linePrice": 3.3,
-        "childItems": [{
-            "vendorLineNumber": "string",
-            "lineNumber": "string",
-            "imLineNumber": "string",
-            "description": "string",
-            "status": "string",
-            "hasAncillaryInfo": true,
-            "quantityOrdered": 35,
-            "quantityShipped": 30,
-            "unitPrice": 3.35,
-            "linePrice": 3.3
-        }]
+        "hasSerialNumbersData": "false",
+        "hasTrackingNumbersData": "false"
     }],
-    "tracking-numbers": [{
-            "vendorLineNumber": "string",
-            "imLineNumber": "string",
+    "tracking-numbers": {
+        "orderLines": [{
+            "ingramSalesOrderLineNumber": "001",
+            "vendorSalesOrderLineNumber": "1001",
+            "ingramPartNumber": "SKU",
+            "vendorPartNumber": "VPN",
+            "description": "Bala Bla bla",
+            "carrierDetails": [{
+                "name": "FedEx",
+                "scac": "FDEG",
+                "trackingNumber": "152112402234",
+                "shipFromLocation": "MILLINGTON, TN",
+                "actualShipDate": "2021-07-27",
+                "carrierPickupDate": "2021-07-27",
+                "estimatedDeliveryDate": "2021-07-27",
+                "deliveredDate": "2021-07-27",
+                "status": "delivered",
+                "trackingUrl": "https://www.fedex.com/apps/fedextrack/?action=track&trackingnumber=152112402234&cntry_code=us&locale=en_US",
+                "proofOfDelivery": {
+                    "signedByName": "John Doe"
+                }
+            }]
+        }]
+    },
+    "serial-numbers": {
+        "orderLines": [{
+            "ingramSalesOrderLineNumber": "001",
+            "vendorSalesOrderLineNumber": "1001",
+            "ingramPartNumber": "string",
             "vendorPartNumber": "string",
             "description": "string",
-            "lines": [{
-                "carrierName": "string",
-                "trackingNumber": "string",
-                "trackingUrl": "string",
-                "shipDate": "2021-06-05T14:48:00.000Z",
-                "expectedArrivalDate": "2021-06-05T14:48:00.000Z",
-                "deliveredDate": "2021-06-05T14:48:00.000Z",
-                "status": "string",
-                "proofOfDelivery": "string"
-            }]
-    }],
-    "serial-numbers": {
-        "vendorLineNumber": "string",
-        "imLineNumber": "string",
-        "description": "string",
-        "quantity": "string",
-        "serialNumbers": [
-            "string1",
-            "string2"
-        ]
+            "serialNumberCount": 0,
+            "serialNumbers": [
+                "string"
+            ]
+        }]
     },
     "license-info": {
         "licenseNumbers": [
