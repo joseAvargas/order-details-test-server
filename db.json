@@ -1,0 +1,88 @@
+{
+    "order-header": {
+        "orderNumber": "string",
+        "orderDate": "2021-06-05T14:48:00.000Z",
+        "resellerPO": "string",
+        "endUserPO": "string",
+        "status": true,
+        "addresses": [{
+            "addressType": "Shipping",
+            "name": "string",
+            "attention": "string",
+            "lines": [
+                "123 Address 1"
+            ],
+            "city": "Som Cit",
+            "state": "CA",
+            "postalCode": "string",
+            "country": "string",
+            "contactPhoneNumber": "string"
+        }],
+        "hasLicenseData": true,
+        "hasLSerialNumberData": true,
+        "hasTrackingNumberData": true,
+        "hasSoftwareServicesData": true,
+        "partnerLogoUrl": "string",
+        "orderComments": [
+            "string1",
+            "string2"
+        ],
+        "orderLines": []
+    },
+    "order-lines": [{
+        "vendorLineNumber": "string",
+        "lineNumber": "string",
+        "imLineNumber": "string",
+        "description": "string",
+        "status": "string",
+        "hasAncillaryInfo": true,
+        "ancillaryInfo": [{
+            "quantity": 25,
+            "estimatedShipDate": "2021-06-05T14:48:00.000Z",
+            "actualShipDate": "2021-06-05T14:48:00.000Z",
+            "estimatedDeliveryDate": "2021-06-05T14:48:00.000Z",
+            "actualDeliveryDate": "2021-06-05T14:48:00.000Z",
+            "requestedDeliveryDate": "2021-06-05T14:48:00.000Z",
+            "manufacturerPlantInfo": "string",
+            "notes": [
+                "Note 1",
+                "Note 2"
+            ],
+            "discountedAmount": 1.23,
+            "expirationDate": "2021-06-05T14:48:00.000Z",
+            "quantityLimit": 50
+        }],
+        "quantityOrdered": 35,
+        "quantityShipped": 30,
+        "unitPrice": 3.35,
+        "linePrice": 3.3,
+        "childItems": [{
+            "vendorLineNumber": "string",
+            "lineNumber": "string",
+            "imLineNumber": "string",
+            "description": "string",
+            "status": "string",
+            "hasAncillaryInfo": true,
+            "quantityOrdered": 35,
+            "quantityShipped": 30,
+            "unitPrice": 3.35,
+            "linePrice": 3.3
+        }]
+    }],
+    "tracking-numbers": [{
+            "vendorLineNumber": "string",
+            "imLineNumber": "string",
+            "vendorPartNumber": "string",
+            "description": "string",
+            "lines": [{
+                "carrierName": "string",
+                "trackingNumber": "string",
+                "trackingUrl": "string",
+                "shipDate": "2021-06-05T14:48:00.000Z",
+                "expectedArrivalDate": "2021-06-05T14:48:00.000Z",
+                "deliveredDate": "2021-06-05T14:48:00.000Z",
+                "status": "string",
+                "proofOfDelivery": "string"
+            }]
+    }]
+}
