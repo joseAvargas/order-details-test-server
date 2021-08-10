@@ -69,49 +69,9 @@
         },
         {
             "vendorLineNumber": "1001",
-            "lineNumber": "1.0",
-            "imLineNumber": "001",
-            "description": "Wifi Chassis In Staineless Steel VPN: MYFQ2LL/A SKU: 8HH942",
-            "status": "In Transit",
-            "hasAncillaryInfo": true,
-            "ancillaryInfo": [{
-                "quantity": 25,
-                "estimatedShipDate": "2021-06-05T14:48:00.000Z",
-                "actualShipDate": "2021-06-05T14:48:00.000Z",
-                "estimatedDeliveryDate": "2021-06-05T14:48:00.000Z",
-                "actualDeliveryDate": "2021-06-05T14:48:00.000Z",
-                "requestedDeliveryDate": "2021-06-05T14:48:00.000Z",
-                "manufacturerPlantInfo": "string",
-                "notes": [
-                    "Note 1",
-                    "Note 2"
-                ],
-                "discountedAmount": 1.23,
-                "expirationDate": "2021-06-05T14:48:00.000Z",
-                "quantityLimit": 50
-            }],
-            "quantityOrdered": 35,
-            "quantityShipped": 30,
-            "unitPrice": 3.35,
-            "linePrice": 3.3,
-            "childItems": [{
-                "vendorLineNumber": "string",
-                "lineNumber": "string",
-                "imLineNumber": "string",
-                "description": "string",
-                "status": "string",
-                "hasAncillaryInfo": true,
-                "quantityOrdered": 35,
-                "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3
-            }]
-        },
-        {
-            "vendorLineNumber": "1001",
             "lineNumber": "2.0",
             "imLineNumber": "001",
-            "description": "Wifi Chassis In Staineless Steel VPN: MYFQ2LL/A SKU: 8HH942",
+            "description": "Cisco 5520 Wireless Controller SW Rel. 8.2 VPN: AIR - CT5520 - SW - 8.2 SKU: 222222 ",
             "status": "In Transit",
             "hasAncillaryInfo": true,
             "ancillaryInfo": [{
@@ -151,7 +111,7 @@
             "vendorLineNumber": "1001",
             "lineNumber": "3.0",
             "imLineNumber": "001",
-            "description": "Wifi Chassis In Staineless Steel VPN: MYFQ2LL/A SKU: 8HH942",
+            "description": "Cisco 5520 Wireless Controller w/rack VPN: AIR - CT5520 - K9 SKU: 111111 ",
             "status": "In Transit",
             "hasAncillaryInfo": true,
             "ancillaryInfo": [{
@@ -343,6 +303,46 @@
                 "hasAncillaryInfo": true,
                 "quantityOrdered": 350,
                 "quantityShipped": 300,
+                "unitPrice": 3.35,
+                "linePrice": 3.3
+            }]
+        },
+        {
+            "vendorLineNumber": "1001",
+            "lineNumber": "8.0",
+            "imLineNumber": "001",
+            "description": "Wifi Chassis In Staineless Steel VPN: MYFQ2LL/A SKU: 8HH942",
+            "status": "In Transit",
+            "hasAncillaryInfo": true,
+            "ancillaryInfo": [{
+                "quantity": 25,
+                "estimatedShipDate": "2021-06-05T14:48:00.000Z",
+                "actualShipDate": "2021-06-05T14:48:00.000Z",
+                "estimatedDeliveryDate": "2021-06-05T14:48:00.000Z",
+                "actualDeliveryDate": "2021-06-05T14:48:00.000Z",
+                "requestedDeliveryDate": "2021-06-05T14:48:00.000Z",
+                "manufacturerPlantInfo": "string",
+                "notes": [
+                    "Note 1",
+                    "Note 2"
+                ],
+                "discountedAmount": 1.23,
+                "expirationDate": "2021-06-05T14:48:00.000Z",
+                "quantityLimit": 50
+            }],
+            "quantityOrdered": 35,
+            "quantityShipped": 30,
+            "unitPrice": 3.35,
+            "linePrice": 3.3,
+            "childItems": [{
+                "vendorLineNumber": "string",
+                "lineNumber": "string",
+                "imLineNumber": "string",
+                "description": "string",
+                "status": "string",
+                "hasAncillaryInfo": true,
+                "quantityOrdered": 35,
+                "quantityShipped": 30,
                 "unitPrice": 3.35,
                 "linePrice": 3.3
             }]
