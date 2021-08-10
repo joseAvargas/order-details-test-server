@@ -1,6 +1,7 @@
 {
     "scripts": {
-        "start": "node server.js"
+        "start": "node server.js",
+        "deploy": "git add . && git commit -m \"updating db\" && git push -u origin master"
     },
     "dependencies": {
         "json-server": "^0.16.3"
