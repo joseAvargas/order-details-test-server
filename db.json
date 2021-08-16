@@ -509,7 +509,7 @@
             }
         ],
         "hasLicenseNumberData": true,
-        "hasLSerialNumberData": true,
+        "hasSerialNumberData": true,
         "hasTrackingNumbersData": true,
         "hasSoftwareServicesData": true
     }
