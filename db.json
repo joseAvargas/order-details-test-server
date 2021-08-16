@@ -460,5 +460,54 @@
                 "serialDetails": "string"
             }
         ]
+    },
+    "order-header": {
+        "orderNumber": "70-Q90MV-11",
+        "orderDate": "2021-08-15",
+        "resellerPO": "PO-34343212",
+        "endUserPO": "TEST123456",
+        "vendorSO": "A19838883",
+        "status": "In Progress",
+        "addresses": [{
+                "addressType": "shipping",
+                "name": "Johnathon Moore",
+                "lines": [
+                    "1759 Wehrle Dr, Suit 400"
+                ],
+                "city": "Williamsville",
+                "state": "NY",
+                "postalCode": "142217887",
+                "country": "USA",
+                "contactPhoneNumber": "1-210-213-4567"
+            },
+            {
+                "addressType": "billing",
+                "name": "Johnathon Moore",
+                "lines": [
+                    "1759 Wehrle Dr, Suit 400"
+                ],
+                "city": "Williamsville",
+                "state": "NY",
+                "postalCode": "142217887",
+                "country": "USA",
+                "contactPhoneNumber": "1-210-213-4567"
+            },
+            {
+                "addressType": "installing",
+                "name": "Johnathon Moore",
+                "lines": [
+                    "1759 Wehrle Dr, Suit 400"
+                ],
+                "city": "Williamsville",
+                "state": "NY",
+                "postalCode": "142217887",
+                "country": "USA",
+                "contactPhoneNumber": "1-210-213-4567"
+            }
+        ],
+        "hasLicenseNumberData": true,
+        "hasLSerialNumberData": true,
+        "hasTrackingNumbersData": true,
+        "hasSoftwareServicesData": true
     }
 }
