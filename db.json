@@ -27,23 +27,18 @@
             "quantityShipped": 30,
             "unitPrice": 3.35,
             "linePrice": 3.3,
-            "childItems": [{
-                "vendorLineNumber": "string",
-                "lineNumber": "string",
-                "imLineNumber": "string",
-                "description": "string",
-                "status": "string",
-                "hasAncillaryInfo": true,
-                "quantityOrdered": 35,
-                "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3
-            }]
+            "hasMultipleCarriers": true,
+            "childItems": [],
+            "carrierInfo": {
+                "carrierName": "United Parcel Services",
+                "carrierTrackingNumber": "9123093841011",
+                "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+            }
         },
         {
-            "vendorLineNumber": "1001",
+            "vendorLineNumber": "1002",
             "lineNumber": "2.0",
-            "imLineNumber": "001",
+            "imLineNumber": "002",
             "description": "Cisco 5520 Wireless Controller SW Rel. 8.2 VPN: AIR - CT5520 - SW - 8.2 SKU: 222222 ",
             "status": "In Transit",
             "hasAncillaryInfo": true,
@@ -67,18 +62,49 @@
             "quantityShipped": 30,
             "unitPrice": 3.35,
             "linePrice": 3.3,
-            "childItems": [{
-                "vendorLineNumber": "string",
-                "lineNumber": "string",
-                "imLineNumber": "string",
-                "description": "string",
-                "status": "string",
-                "hasAncillaryInfo": true,
-                "quantityOrdered": 35,
-                "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3
-            }]
+            "childItems": [
+                {
+                    "vendorLineNumber": "string",
+                    "lineNumber": "2.1",
+                    "imLineNumber": "string",
+                    "description": "Cisco 5520 Wireless Controller SW Rel. 8.2 VPN: AIR - CT5520 - SW - 8.2 SKU: 222222",
+                    "status": "string",
+                    "hasAncillaryInfo": true,
+                    "quantityOrdered": 35,
+                    "quantityShipped": 30,
+                    "unitPrice": 3.35,
+                    "linePrice": 3.3
+                },
+                {
+                    "vendorLineNumber": "string",
+                    "lineNumber": "2.2",
+                    "imLineNumber": "string",
+                    "description": "770W AC Hot-Plug Power Supply for 5520 VPN: AIR - PSU1 - 770 W SKU: 333333 ",
+                    "status": "string",
+                    "hasAncillaryInfo": true,
+                    "quantityOrdered": 35,
+                    "quantityShipped": 30,
+                    "unitPrice": 3.35,
+                    "linePrice": 3.3
+                },
+                {
+                    "vendorLineNumber": "string",
+                    "lineNumber": "2.3",
+                    "imLineNumber": "string",
+                    "description": "Cisco 5520 Wireless Controller Security Bezel VPN: AIR - BZL - C220M4 SKU: 444444 ",
+                    "status": "string",
+                    "hasAncillaryInfo": true,
+                    "quantityOrdered": 35,
+                    "quantityShipped": 30,
+                    "unitPrice": 3.35,
+                    "linePrice": 3.3
+                }
+            ],
+            "carrierInfo": {
+                "carrierName": "United Parcel Services",
+                "carrierTrackingNumber": "9123093841011",
+                "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+            }
         },
         {
             "vendorLineNumber": "1001",
@@ -107,18 +133,12 @@
             "quantityShipped": 30,
             "unitPrice": 3.35,
             "linePrice": 3.3,
-            "childItems": [{
-                "vendorLineNumber": "string",
-                "lineNumber": "string",
-                "imLineNumber": "string",
-                "description": "string",
-                "status": "string",
-                "hasAncillaryInfo": true,
-                "quantityOrdered": 35,
-                "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3
-            }]
+            "childItems": [],
+            "carrierInfo": {
+                "carrierName": "United Parcel Services",
+                "carrierTrackingNumber": "9123093841011",
+                "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+            }
         },
         {
             "vendorLineNumber": "1001",
@@ -147,18 +167,12 @@
             "quantityShipped": 30,
             "unitPrice": 3.35,
             "linePrice": 3.3,
-            "childItems": [{
-                "vendorLineNumber": "string",
-                "lineNumber": "string",
-                "imLineNumber": "string",
-                "description": "string",
-                "status": "string",
-                "hasAncillaryInfo": true,
-                "quantityOrdered": 35,
-                "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3
-            }]
+            "childItems": [],
+            "carrierInfo": {
+                "carrierName": "United Parcel Services",
+                "carrierTrackingNumber": "9123093841011",
+                "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+            }
         },
         {
             "vendorLineNumber": "1001",
@@ -187,18 +201,12 @@
             "quantityShipped": 199,
             "unitPrice": 3.35,
             "linePrice": 3.3,
-            "childItems": [{
-                "vendorLineNumber": "string",
-                "lineNumber": "string",
-                "imLineNumber": "string",
-                "description": "string",
-                "status": "string",
-                "hasAncillaryInfo": true,
-                "quantityOrdered": 199,
-                "quantityShipped": 199,
-                "unitPrice": 3.35,
-                "linePrice": 3.3
-            }]
+            "childItems": [],
+            "carrierInfo": {
+                "carrierName": "United Parcel Services",
+                "carrierTrackingNumber": "9123093841011",
+                "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+            }
         },
         {
             "vendorLineNumber": "1001",
@@ -227,18 +235,12 @@
             "quantityShipped": 300,
             "unitPrice": 3.35,
             "linePrice": 3.3,
-            "childItems": [{
-                "vendorLineNumber": "string",
-                "lineNumber": "string",
-                "imLineNumber": "string",
-                "description": "string",
-                "status": "string",
-                "hasAncillaryInfo": true,
-                "quantityOrdered": 350,
-                "quantityShipped": 300,
-                "unitPrice": 3.35,
-                "linePrice": 3.3
-            }]
+            "childItems": [],
+            "carrierInfo": {
+                "carrierName": "United Parcel Services",
+                "carrierTrackingNumber": "9123093841011",
+                "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+            }
         },
         {
             "vendorLineNumber": "1001",
@@ -267,18 +269,12 @@
             "quantityShipped": 300,
             "unitPrice": 3.35,
             "linePrice": 3.3,
-            "childItems": [{
-                "vendorLineNumber": "string",
-                "lineNumber": "string",
-                "imLineNumber": "string",
-                "description": "string",
-                "status": "string",
-                "hasAncillaryInfo": true,
-                "quantityOrdered": 350,
-                "quantityShipped": 300,
-                "unitPrice": 3.35,
-                "linePrice": 3.3
-            }]
+            "childItems": [],
+            "carrierInfo": {
+                "carrierName": "United Parcel Services",
+                "carrierTrackingNumber": "9123093841011",
+                "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+            }
         },
         {
             "vendorLineNumber": "1001",
@@ -307,21 +303,16 @@
             "quantityShipped": 30,
             "unitPrice": 3.35,
             "linePrice": 3.3,
-            "childItems": [{
-                "vendorLineNumber": "string",
-                "lineNumber": "string",
-                "imLineNumber": "string",
-                "description": "string",
-                "status": "string",
-                "hasAncillaryInfo": true,
-                "quantityOrdered": 35,
-                "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3
-            }]
+            "childItems": [],
+            "carrierInfo": {
+                "carrierName": "United Parcel Services",
+                "carrierTrackingNumber": "9123093841011",
+                "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+            }
         }
     ],
-    "tracking-numbers": [{
+    "tracking-numbers": [
+        {
             "type": "inTransit",
             "displayName": "In Transit",
             "data": [{
@@ -330,9 +321,11 @@
                     "sku": "8HHJN4",
                     "description": "Wifi Chassis In Stainless Steel",
                     "quantity": 90,
-                    "carrierName": "United Parcel Services",
-                    "carrierTrackingNumber": "9123093841011",
-                    "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                    "carrierInfo": {
+                        "carrierName": "United Parcel Services",
+                        "carrierTrackingNumber": "9123093841011",
+                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+                    },
                     "tenderedDate": "2021-08-01",
                     "shippedDate": "2021-08-02",
                     "deliveredDate": "2021-08-02",
@@ -344,9 +337,11 @@
                     "sku": "8HHJN4",
                     "description": "Wifi Chassis In Stainless Steel",
                     "quantity": 90,
-                    "carrierName": "United Parcel Services",
-                    "carrierTrackingNumber": "9123093841011",
-                    "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                    "carrierInfo": {
+                        "carrierName": "United Parcel Services",
+                        "carrierTrackingNumber": "9123093841011",
+                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+                    },
                     "tenderedDate": "2021-08-01",
                     "shippedDate": "2021-08-02",
                     "deliveredDate": "2021-08-02",
@@ -363,9 +358,11 @@
                 "sku": "8HHJN4",
                 "description": "Wifi Chassis In Stainless Steel",
                 "quantity": 90,
-                "carrierName": "United Parcel Services",
-                "carrierTrackingNumber": "9123093841011",
-                "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                "carrierInfo": {
+                    "carrierName": "United Parcel Services",
+                    "carrierTrackingNumber": "9123093841011",
+                    "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+                },
                 "tenderedDate": "2021-08-01",
                 "shippedDate": "2021-08-02",
                 "deliveredDate": "2021-08-02",
@@ -381,9 +378,11 @@
                     "sku": "8HHJN4",
                     "description": "Wifi Chassis In Stainless Steel",
                     "quantity": 90,
-                    "carrierName": "United Parcel Services",
-                    "carrierTrackingNumber": "9123093841011",
-                    "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                    "carrierInfo": {
+                        "carrierName": "United Parcel Services",
+                        "carrierTrackingNumber": "9123093841011",
+                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+                    },
                     "tenderedDate": "2021-08-01",
                     "shippedDate": "2021-08-02",
                     "deliveredDate": "2021-08-02",
@@ -395,9 +394,11 @@
                     "sku": "8HHJN4",
                     "description": "Wifi Chassis In Stainless Steel",
                     "quantity": 90,
-                    "carrierName": "United Parcel Services",
-                    "carrierTrackingNumber": "9123093841011",
-                    "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                    "carrierInfo": {
+                        "carrierName": "United Parcel Services",
+                        "carrierTrackingNumber": "9123093841011",
+                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+                    },
                     "tenderedDate": "2021-08-01",
                     "shippedDate": "2021-08-02",
                     "deliveredDate": "2021-08-02",
@@ -409,9 +410,11 @@
                     "sku": "8HHJN4",
                     "description": "Wifi Chassis In Stainless Steel",
                     "quantity": 90,
-                    "carrierName": "United Parcel Services",
-                    "carrierTrackingNumber": "9123093841011",
-                    "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                    "carrierInfo": {
+                        "carrierName": "United Parcel Services",
+                        "carrierTrackingNumber": "9123093841011",
+                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+                    },
                     "tenderedDate": "2021-08-01",
                     "shippedDate": "2021-08-02",
                     "deliveredDate": "2021-08-02",
