@@ -309,6 +309,76 @@
                 "carrierTrackingNumber": "9123093841011",
                 "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
             }
+        },
+        {
+            "vendorLineNumber": "1009",
+            "lineNumber": "9.0",
+            "imLineNumber": "009",
+            "description": "Cisco 5520 Wireless Controller SW Rel. 8.2 VPN: AIR - CT5520 - SW - 8.2 SKU: 222222 ",
+            "status": "In Transit",
+            "hasAncillaryInfo": true,
+            "ancillaryInfo": [{
+                "quantity": 25,
+                "estimatedShipDate": "2021-06-05T14:48:00.000Z",
+                "actualShipDate": "2021-06-05T14:48:00.000Z",
+                "estimatedDeliveryDate": "2021-06-05T14:48:00.000Z",
+                "actualDeliveryDate": "2021-06-05T14:48:00.000Z",
+                "requestedDeliveryDate": "2021-06-05T14:48:00.000Z",
+                "manufacturerPlantInfo": "string",
+                "notes": [
+                    "Note 1",
+                    "Note 2"
+                ],
+                "discountedAmount": 1.23,
+                "expirationDate": "2021-06-05T14:48:00.000Z",
+                "quantityLimit": 50
+            }],
+            "quantityOrdered": 35,
+            "quantityShipped": 30,
+            "unitPrice": 3.35,
+            "linePrice": 3.3,
+            "childItems": [{
+                    "vendorLineNumber": "string",
+                    "lineNumber": "9.1",
+                    "imLineNumber": "string",
+                    "description": "Cisco 5520 Wireless Controller SW Rel. 8.2 VPN: AIR - CT5520 - SW - 8.2 SKU: 222222",
+                    "status": "string",
+                    "hasAncillaryInfo": true,
+                    "quantityOrdered": 35,
+                    "quantityShipped": 30,
+                    "unitPrice": 3.35,
+                    "linePrice": 3.3
+                },
+                {
+                    "vendorLineNumber": "string",
+                    "lineNumber": "9.2",
+                    "imLineNumber": "string",
+                    "description": "770W AC Hot-Plug Power Supply for 5520 VPN: AIR - PSU1 - 770 W SKU: 333333 ",
+                    "status": "string",
+                    "hasAncillaryInfo": true,
+                    "quantityOrdered": 35,
+                    "quantityShipped": 30,
+                    "unitPrice": 3.35,
+                    "linePrice": 3.3
+                },
+                {
+                    "vendorLineNumber": "string",
+                    "lineNumber": "9.3",
+                    "imLineNumber": "string",
+                    "description": "Cisco 5520 Wireless Controller Security Bezel VPN: AIR - BZL - C220M4 SKU: 444444 ",
+                    "status": "string",
+                    "hasAncillaryInfo": true,
+                    "quantityOrdered": 35,
+                    "quantityShipped": 30,
+                    "unitPrice": 3.35,
+                    "linePrice": 3.3
+                }
+            ],
+            "carrierInfo": {
+                "carrierName": "United Parcel Services",
+                "carrierTrackingNumber": "9123093841011",
+                "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
+            }
         }
     ],
     "tracking-numbers": [
