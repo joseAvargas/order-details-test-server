@@ -67,7 +67,7 @@
                     },
                     {
                         "lineNumber": "2.3",
-                        "description": "Cisco 5520 Wireless Controller Security Bezel",
+                        "description": "Cisco 5520 Wireless Controller Security Bezel this is a really long line of tex",
                         "sku": "8HH942",
                         "vpn": "MYFQ2LL/A",
                         "status": "string",
@@ -103,7 +103,7 @@
                     },
                     {
                         "lineNumber": "2.6",
-                        "description": "Cisco 5520 Wireless Controller Security Bezel",
+                        "description": "Cisco 5520 Wireless Controller Security Bezel this is a really long line of tex",
                         "sku": "8HH942",
                         "vpn": "MYFQ2LL/A",
                         "status": "string",
@@ -115,7 +115,7 @@
                     },
                     {
                         "lineNumber": "2.7",
-                        "description": "Cisco 5520 Wireless Controller Security Bezel",
+                        "description": "Cisco 5520 Wireless Controller Security Bezel this is a really long line of tex",
                         "sku": "8HH942",
                         "vpn": "MYFQ2LL/A",
                         "status": "string",
@@ -139,7 +139,7 @@
                     },
                     {
                         "lineNumber": "2.9",
-                        "description": "Cisco 5520 Wireless Controller Security Bezel",
+                        "description": "Cisco 5520 Wireless Controller Security Bezel this is a really long line of tex",
                         "sku": "8HH942",
                         "vpn": "MYFQ2LL/A",
                         "status": "string",
@@ -292,7 +292,7 @@
                 "licenseNumberCount": 10,
                 "childItems": [{
                         "lineNumber": "7.1",
-                        "description": "Cisco 5520 Wireless Controller SW Rel. 8.2",
+                        "description": "Cisco 5520 Wireless Controller SW Rel. 8.2 this is a really long line of tex",
                         "sku": "8HH942",
                         "vpn": "MYFQ2LL/A",
                         "status": "string",
@@ -316,7 +316,7 @@
                     },
                     {
                         "lineNumber": "7.3",
-                        "description": "Cisco 5520 Wireless Controller Security Bezel",
+                        "description": "Cisco 5520 Wireless Controller Security Bezel this is a really long line of tex",
                         "sku": "8HH942",
                         "vpn": "MYFQ2LL/A",
                         "status": "string",
