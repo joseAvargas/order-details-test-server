@@ -478,114 +478,127 @@
         }
 
     },
-    "tracking-numbers": [
-        {
+    "tracking-numbers": [{
             "type": "inTransit",
             "displayName": "In Transit",
-            "data": [{
-                    "lineNumber": "1.0",
-                    "vendorNumber": "MYFQ3LL/A",
-                    "sku": "8HHJN4",
-                    "description": "Wifi Chassis In Stainless Steel",
-                    "quantity": 90,
-                    "carrierInfo": {
-                        "carrierName": "United Parcel Services",
-                        "carrierTrackingNumber": "9123093841011",
-                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
-                    },
-                    "tenderedDate": "2021-08-01",
-                    "shippedDate": "2021-08-02",
-                    "deliveredDate": "2021-08-02",
-                    "podUrl": "https://imonline.com/pod-download.pdf"
-                },
-                {
-                    "lineNumber": "1.0",
-                    "vendorNumber": "MYFQ3LL/A",
-                    "sku": "8HHJN4",
-                    "description": "Wifi Chassis In Stainless Steel",
-                    "quantity": 90,
-                    "carrierInfo": {
-                        "carrierName": "United Parcel Services",
-                        "carrierTrackingNumber": "9123093841011",
-                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
-                    },
-                    "tenderedDate": "2021-08-01",
-                    "shippedDate": "2021-08-02",
-                    "deliveredDate": "2021-08-02",
-                    "podUrl": "https://imonline.com/pod-download.pdf"
-                }
-            ]
-        },
-        {
-            "type": "processing",
-            "displayName": "Processing",
-            "data": [{
+            "orderLines": [{
                 "lineNumber": "1.0",
                 "vendorNumber": "MYFQ3LL/A",
                 "sku": "8HHJN4",
                 "description": "Wifi Chassis In Stainless Steel",
-                "quantity": 90,
-                "carrierInfo": {
-                    "carrierName": "United Parcel Services",
-                    "carrierTrackingNumber": "9123093841011",
-                    "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
-                },
-                "tenderedDate": "2021-08-01",
-                "shippedDate": "2021-08-02",
-                "deliveredDate": "2021-08-02",
-                "podUrl": "https://imonline.com/pod-download.pdf"
+                "data": [{
+                        "quantity": 90,
+                        "carrierName": "United Parcel Services",
+                        "carrierTrackingNumber": "9123093841011",
+                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                        "tenderedDate": "2021-08-01",
+                        "shippedDate": "2021-08-02",
+                        "deliveredDate": "2021-08-02",
+                        "expectedArrivalDate": "2021-08-02",
+                        "shippedFrom": "Los Angeles, CA",
+                        "status": "Delivered on Dock"
+                    },
+                    {
+                        "quantity": 90,
+                        "carrierName": "United Parcel Services",
+                        "carrierTrackingNumber": "9123093841011",
+                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                        "tenderedDate": "2021-08-01",
+                        "shippedDate": "2021-08-02",
+                        "deliveredDate": "2021-08-02",
+                        "expectedArrivalDate": "2021-08-02",
+                        "shippedFrom": "Los Angeles, CA",
+                        "status": "Delivered on Dock"
+                    }
+                ]
             }]
         },
         {
-            "type": "delivered",
+            "type": "processing",
+            "displayName": "Processing",
+            "orderLines": [{
+                "lineNumber": "1.0",
+                "vendorNumber": "MYFQ3LL/A",
+                "sku": "8HHJN4",
+                "description": "Wifi Chassis In Stainless Steel",
+                "data": [{
+                    "quantity": 90,
+                    "carrierName": "United Parcel Services",
+                    "carrierTrackingNumber": "9123093841011",
+                    "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                    "tenderedDate": "2021-08-01",
+                    "shippedDate": "2021-08-02",
+                    "deliveredDate": "2021-08-02",
+                    "expectedArrivalDate": "2021-08-02",
+                    "shippedFrom": "Los Angeles, CA",
+                    "status": "Delivered on Dock"
+                }]
+            }]
+        },
+        {
+            "type": "deivered",
             "displayName": "Delivered",
-            "data": [{
+            "orderLines": [{
                     "lineNumber": "1.0",
                     "vendorNumber": "MYFQ3LL/A",
                     "sku": "8HHJN4",
                     "description": "Wifi Chassis In Stainless Steel",
-                    "quantity": 90,
-                    "carrierInfo": {
-                        "carrierName": "United Parcel Services",
-                        "carrierTrackingNumber": "9123093841011",
-                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
-                    },
-                    "tenderedDate": "2021-08-01",
-                    "shippedDate": "2021-08-02",
-                    "deliveredDate": "2021-08-02",
-                    "podUrl": "https://imonline.com/pod-download.pdf"
+                    "data": [{
+                            "quantity": 90,
+                            "carrierName": "United Parcel Services",
+                            "carrierTrackingNumber": "9123093841011",
+                            "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                            "tenderedDate": "2021-08-01",
+                            "shippedDate": "2021-08-02",
+                            "deliveredDate": "2021-08-02",
+                            "expectedArrivalDate": "2021-08-02",
+                            "shippedFrom": "Los Angeles, CA",
+                            "status": "Delivered on Dock"
+                        },
+                        {
+                            "quantity": 90,
+                            "carrierName": "United Parcel Services",
+                            "carrierTrackingNumber": "9123093841011",
+                            "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                            "tenderedDate": "2021-08-01",
+                            "shippedDate": "2021-08-02",
+                            "deliveredDate": "2021-08-02",
+                            "expectedArrivalDate": "2021-08-02",
+                            "shippedFrom": "Los Angeles, CA",
+                            "status": "Delivered on Dock"
+                        }
+                    ]
                 },
                 {
                     "lineNumber": "1.0",
                     "vendorNumber": "MYFQ3LL/A",
                     "sku": "8HHJN4",
                     "description": "Wifi Chassis In Stainless Steel",
-                    "quantity": 90,
-                    "carrierInfo": {
-                        "carrierName": "United Parcel Services",
-                        "carrierTrackingNumber": "9123093841011",
-                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
-                    },
-                    "tenderedDate": "2021-08-01",
-                    "shippedDate": "2021-08-02",
-                    "deliveredDate": "2021-08-02",
-                    "podUrl": "https://imonline.com/pod-download.pdf"
-                },
-                {
-                    "lineNumber": "1.0",
-                    "vendorNumber": "MYFQ3LL/A",
-                    "sku": "8HHJN4",
-                    "description": "Wifi Chassis In Stainless Steel",
-                    "quantity": 90,
-                    "carrierInfo": {
-                        "carrierName": "United Parcel Services",
-                        "carrierTrackingNumber": "9123093841011",
-                        "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/"
-                    },
-                    "tenderedDate": "2021-08-01",
-                    "shippedDate": "2021-08-02",
-                    "deliveredDate": "2021-08-02",
-                    "podUrl": "https://imonline.com/pod-download.pdf"
+                    "data": [{
+                            "quantity": 90,
+                            "carrierName": "United Parcel Services",
+                            "carrierTrackingNumber": "9123093841011",
+                            "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                            "tenderedDate": "2021-08-01",
+                            "shippedDate": "2021-08-02",
+                            "deliveredDate": "2021-08-02",
+                            "expectedArrivalDate": "2021-08-02",
+                            "shippedFrom": "Los Angeles, CA",
+                            "status": "Delivered on Dock"
+                        },
+                        {
+                            "quantity": 90,
+                            "carrierName": "United Parcel Services",
+                            "carrierTrackingNumber": "9123093841011",
+                            "carrierTrackingUrl": "https://www.ups.com/track?loc=null&tracknum=1Z12345E6605272234&requester=WT/",
+                            "tenderedDate": "2021-08-01",
+                            "shippedDate": "2021-08-02",
+                            "deliveredDate": "2021-08-02",
+                            "expectedArrivalDate": "2021-08-02",
+                            "shippedFrom": "Los Angeles, CA",
+                            "status": "Delivered on Dock"
+                        }
+                    ]
                 }
             ]
         }
