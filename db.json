@@ -652,10 +652,10 @@
         "endUserPO": "TEST123456",
         "vendorSO": "A19838883",
         "status1": "In Progress",
-        "status": "Order Hold",
+        "status5": "Order Hold",
         "status2": "Customer Hold",
         "status3": "Shipped",
-        "status5": "Cancelled",
+        "status": "Cancelled",
         "status4": "Backordered",
         "addresses": [{
                 "addressType": "shipping",
