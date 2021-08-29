@@ -7,7 +7,7 @@
                 "status": "In Transit",
                 "sku": "8HH942",
                 "vpn": "MYFQ2LL/A",
-                "hasAncillaryInfo": true,
+                "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
                 "unitPrice": 3.35,
