@@ -10,8 +10,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -31,8 +31,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -50,8 +50,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "2.2",
@@ -62,8 +62,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "2.3",
@@ -74,8 +74,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "2.4",
@@ -86,8 +86,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "2.5",
@@ -98,8 +98,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "2.6",
@@ -110,8 +110,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "2.7",
@@ -122,8 +122,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "2.8",
@@ -134,8 +134,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "2.9",
@@ -146,8 +146,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     }
                 ]
             },
@@ -160,8 +160,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -179,8 +179,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "3.2",
@@ -191,11 +191,11 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
-                        "lineNumber": "3.3",
+                        "lineNumber": "592.50",
                         "description": "Cisco 5520 Wireless Controller Security Bezel",
                         "sku": "8HH942",
                         "vpn": "MYFQ2LL/A",
@@ -203,8 +203,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     }
                 ]
             },
@@ -217,8 +217,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -238,8 +238,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -259,8 +259,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -280,8 +280,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -299,8 +299,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "7.2",
@@ -311,8 +311,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "7.3",
@@ -323,8 +323,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     }
                 ]
             },
@@ -337,8 +337,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -358,8 +358,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -379,8 +379,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -400,8 +400,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -419,8 +419,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "11.2",
@@ -431,8 +431,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     },
                     {
                         "lineNumber": "11.3",
@@ -443,8 +443,8 @@
                         "hasAncillaryInfo": false,
                         "quantityOrdered": 35,
                         "quantityShipped": 30,
-                        "unitPrice": 3.35,
-                        "linePrice": 3.3
+                        "unitPrice": 3.95,
+                        "linePrice": 592.50
                     }
                 ]
             },
@@ -457,8 +457,8 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.35,
-                "linePrice": 3.3,
+                "unitPrice": 3.95,
+                "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
