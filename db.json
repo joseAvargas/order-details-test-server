@@ -4,7 +4,7 @@
             {
                 "lineNumber": "1.0",
                 "description": "Wifi Chassis In Staineless Steel",
-                "status": "In Transit",
+                "status": "Delivered",
                 "sku": "8HH942",
                 "vpn": "MYFQ2LL/A",
                 "hasAncillaryInfo": false,
@@ -25,7 +25,7 @@
             {
                 "lineNumber": "2.0",
                 "description": "Wifi Chassis In Staineless Steel this is a really long line of text",
-                "status": "In Transit",
+                "status": "Delivered",
                 "sku": "8HH942",
                 "vpn": "MYFQ2LL/A",
                 "hasAncillaryInfo": false,
@@ -154,7 +154,7 @@
             {
                 "lineNumber": "3.0",
                 "description": "Wifi Chassis In Staineless Steel",
-                "status": "In Transit",
+                "status": "Delivered",
                 "sku": "8HH942",
                 "vpn": "MYFQ2LL/A",
                 "hasAncillaryInfo": false,
@@ -211,7 +211,7 @@
             {
                 "lineNumber": "4.0",
                 "description": "Wifi Chassis In Staineless Steel this is an even longer line of text that should disappear",
-                "status": "In Transit",
+                "status": "Delivered",
                 "sku": "8HH942",
                 "vpn": "MYFQ2LL/A",
                 "hasAncillaryInfo": false,
@@ -232,7 +232,7 @@
             {
                 "lineNumber": "5.0",
                 "description": "Wifi Chassis In Staineless Steel this is a really long line of text",
-                "status": "In Transit",
+                "status": "Backordered",
                 "sku": "8HH942",
                 "vpn": "MYFQ2LL/A",
                 "hasAncillaryInfo": false,
@@ -253,7 +253,7 @@
             {
                 "lineNumber": "6.0",
                 "description": "Wifi Chassis In Staineless Steel",
-                "status": "In Transit",
+                "status": "Backordered",
                 "sku": "8HH942",
                 "vpn": "MYFQ2LL/A",
                 "hasAncillaryInfo": false,
@@ -274,7 +274,7 @@
             {
                 "lineNumber": "7.0",
                 "description": "Wifi Chassis In Staineless Steel this is an even longer line of text that should disappear",
-                "status": "In Transit",
+                "status": "Backordered",
                 "sku": "8HH942",
                 "vpn": "MYFQ2LL/A",
                 "hasAncillaryInfo": false,
