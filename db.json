@@ -648,8 +648,8 @@
     "order-header": {
         "orderNumber": "70-Q90MV-11",
         "orderDate": "2021-08-15",
-        "resellerPO": "PO-34343212",
-        "endUserPO": "TEST123456",
+        "resellerPO": null,
+        "endUserPO": null,
         "vendorSO": "A19838883",
         "status": "Cancelled",
         "addresses": [
