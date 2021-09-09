@@ -695,9 +695,9 @@
             
         ],
         "hasLicenseData": true,
-        "hasSerialNumbersData": false,
-        "hasTrackingNumbersData": false,
-        "hasSoftwareServicesData": false,
+        "hasSerialNumbersData": true,
+        "hasTrackingNumbersData": true,
+        "hasSoftwareServicesData": true,
         "orderComments": "",
         "orderLines": "",
         "partnerLogoUrl": ""
