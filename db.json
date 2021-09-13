@@ -604,30 +604,80 @@
             ]
         }
     ],
-    "serialNumbers": {
-        "vendorLineNumber": "1.0",
-        "imLineNumber": "1.0",
-        "description": "Meraki MR42 Cloud Managed AP",
-        "quantity": "79",
-        "serialNumbers": [
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
-            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9"
-        ]
-    },
+    "serialNumbers": [    
+        {
+            "vendorLineNumber": "1.0",
+            "imLineNumber": "1.0",
+            "description": "Meraki MR42 Cloud Managed AP",
+            "quantity": "79",
+            "serialNumbers": [
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9"
+            ]
+        },
+        {
+            "vendorLineNumber": "2.0",
+            "imLineNumber": "2.0",
+            "description": "Meraki MR42 Cloud Managed AP",
+            "quantity": "57",
+            "serialNumbers": [
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9"
+            ]
+        },
+        {
+            "vendorLineNumber": "3.0",
+            "imLineNumber": "3.0",
+            "description": "Meraki MR42 Cloud Managed AP",
+            "quantity": "30",
+            "serialNumbers": [
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+                "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9"
+            ]
+        }
+    ],
     "license-info": {
         "licenseNumbers": [
             "string"
