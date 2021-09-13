@@ -604,14 +604,28 @@
             ]
         }
     ],
-    "serial-numbers": {
-        "vendorLineNumber": "string",
-        "imLineNumber": "string",
-        "description": "string",
-        "quantity": "string",
+    "serialNumbers": {
+        "vendorLineNumber": "1.0",
+        "imLineNumber": "1.0",
+        "description": "Meraki MR42 Cloud Managed AP",
+        "quantity": "79",
         "serialNumbers": [
-            "string1",
-            "string2"
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
+            "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9"
         ]
     },
     "license-info": {
