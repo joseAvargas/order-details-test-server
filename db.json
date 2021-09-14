@@ -608,7 +608,7 @@
         {
             "vendorLineNumber": "1.0",
             "imLineNumber": "1.0",
-            "description": "Meraki MR42 Cloud Managed AP",
+            "description": "Meraki MR42 Cloud Managed AP relly long line of text that should not be visible",
             "quantity": "79",
             "serialNumbers": [
                 "Q2CW-CV2E-A4DM, Q2CW-FBLF-9XV9",
@@ -656,7 +656,7 @@
         {
             "vendorLineNumber": "3.0",
             "imLineNumber": "3.0",
-            "description": "Meraki MR42 Cloud Managed AP",
+            "description": "Meraki MR42 Cloud Managed AP aki MR42 really long line of text",
             "quantity": "30",
             "serialNumbers": [
                 "Q2CW-CV2E-A4DM", "Q2CW-FBLF-9XV9",
