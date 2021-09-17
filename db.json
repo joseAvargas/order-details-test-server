@@ -717,6 +717,62 @@
             }
         ]
     },
-    "order-header": { }
+    "order-header": {
+        "orderNumber": "70-Q90MV-11",
+        "orderDate": "2021-08-15",
+        "resellerPO": "TEST PO",
+        "endUserPO": "PO #1234567",
+        "vendorSO": "A19838883",
+        "status": "Cancelled",
+        "addresses": [
+            {
+                "addressType": "shipping",
+                "contactName": "Johnathon Moore",
+                "companyName": "Company Z",
+                "addressLine1": "1759 Wehrle Dr",
+                "addressLine2": "Suit 400",
+                "city": "Williamsville",
+                "state": "NY",
+                "postalCode": "142217887",
+                "countryCode": "USA",
+                "phoneNumber": "1-210-213-4567",
+                "email": "test@im.com"
+            },
+            {
+                "addressType": "billing",
+                "contactName": "Johnathon Moore",
+                "companyName": "Company Z",
+                "addressLine1": "1759 Wehrle Dr",
+                "addressLine2": "Suit 400",
+                "city": "Williamsville",
+                "state": "NY",
+                "postalCode": "142217887",
+                "countryCode": "USA",
+                "phoneNumber": "1-210-213-4567",
+                "email": "test@im.com"
+            },
+            {
+                "addressType": "installing",
+                "contactName": "Johnathon Moore",
+                "companyName": "Company Z",
+                "addressLine1": "1759 Wehrle Dr",
+                "addressLine2": "Suit 400",
+                "city": "Williamsville",
+                "state": "NY",
+                "postalCode": "142217887",
+                "countryCode": "USA",
+                "phoneNumber": "1-210-213-4567",
+                "email": "test@im.com"
+            }
+            
+        ],
+        "hasLicenseData": true,
+        "hasSerialNumbersData": false,
+        "hasTrackingNumbersData": false,
+        "hasSoftwareServicesData": true,
+        "orderComments": "",
+        "orderLines": "",
+        "partnerLogoUrl": ""
+    }
 }
 
