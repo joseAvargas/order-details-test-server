@@ -768,7 +768,7 @@
         ],
         "hasLicenseData": true,
         "hasSerialNumbersData": true,
-        "hasTrackingNumbersData": true,
+        "hasTrackingNumbersData": false,
         "hasSoftwareServicesData": true,
         "orderComments": "",
         "orderLines": "",
