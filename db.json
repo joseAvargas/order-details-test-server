@@ -686,36 +686,49 @@
             ]
         }
     ],
-    "license-info": {
-        "licenseNumbers": [
-            "string"
-        ],
-        "documents": [{
-                "description": "string",
-                "url": "string"
+    "software-services": {
+        "endUserAccount": "ecri.org",
+        "resellerAccount": "redriver.com",
+        "licenses": [{
+            "lineNumber": "6.0",
+            "sku": "MR42-HW",
+            "description": "Meraki MR42 Cloud Managed AP",
+            "quantity": 2,
+            "serialNumbers": [
+                "Q2CW-CV2E-A4DM",
+                "Q2CW-FBLF-9XV9"
+            ]
+        }],
+        "subscriptons": [
+            {
+                "lineNumber": "5.0",
+                "description": "CON-SNT-SMS-1",
+                "sku": "",
+                "contractNumber": "201730282",
+                "contractStatus": "N/A",
+                "startDate": "10/31/2019",
+                "endDate": "07/01/2022" 
             },
             {
-                "description": "string",
-                "url": "string"
-            }
-        ],
-        "lines": [{
-                "product": "string",
-                "vendorLineNumber": "string",
-                "quantity": 10,
-                "startDate": "2021-06-05T14:48:00.000Z",
-                "endDate": "2021-06-05T14:48:00.000Z",
-                "serialDetails": "string"
+                "lineNumber": "5.0",
+                "description": "CON-SNT-SMS-1",
+                "sku": "",
+                "contractNumber": "201730282",
+                "contractStatus": "N/A",
+                "startDate": "10/31/2019",
+                "endDate": "07/01/2022" 
             },
             {
-                "product": "string",
-                "vendorLineNumber": "string",
-                "quantity": 10,
-                "startDate": "2021-06-05T14:48:00.000Z",
-                "endDate": "2021-06-05T14:48:00.000Z",
-                "serialDetails": "string"
+                "lineNumber": "5.0",
+                "description": "CON-SNT-SMS-1",
+                "sku": "",
+                "contractNumber": "201730282",
+                "contractStatus": "N/A",
+                "startDate": "10/31/2019",
+                "endDate": "07/01/2022" 
             }
-        ]
+    ]
+        
     },
     "order-header": {
         "orderNumber": "70-Q90MV-11",
