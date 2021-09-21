@@ -780,8 +780,8 @@
             
         ],
         "hasLicenseData": true,
-        "hasSerialNumbersData": false,
-        "hasTrackingNumbersData": false,
+        "hasSerialNumbersData": true,
+        "hasTrackingNumbersData": true,
         "hasSoftwareServicesData": true,
         "orderComments": "",
         "orderLines": "",
