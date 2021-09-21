@@ -694,7 +694,7 @@
             "sku": "MR42-HW",
             "description": "Meraki MR42 Cloud Managed AP",
             "quantity": 2,
-            "serialNumbers": [
+            "licenseKey": [
                 "Q2CW-CV2E-A4DM",
                 "Q2CW-FBLF-9XV9"
             ]
