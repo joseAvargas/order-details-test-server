@@ -686,7 +686,62 @@
             ]
         }
     ],
-    "software-services": {},
+    "software-services": {
+        "endUserAccount": "ecri.org",
+        "resellerAccount": "redriver.com",
+        "licenses": [
+            {
+                "lineNumber": "6.0",
+                "sku": "MR42-HW",
+                "description": "Meraki MR42 Cloud Managed really long line that shoule not show up",
+                "quantity": "2",
+                "licenseKey": [
+                    "Q2CW-CV2E-A4DM",
+                    "Q2CW-FBLF-9XV9"
+                ]
+            },
+            {
+                "lineNumber": "6.0",
+                "sku": "MR42-HW",
+                "description": "Meraki MR42 Cloud Managed AP",
+                "quantity": "2",
+                "licenseKey": [
+                    "Q2CW-CV2E-A4DM",
+                    "Q2CW-FBLF-9XV9",
+                    "Q2CW-CV2E-A4DM",
+                    "Q2CW-FBLF-9XV9"
+                ]
+            },
+            {
+                "lineNumber": "6.0",
+                "sku": "MR42-HW",
+                "description": "Meraki MR42 Cloud Managed AP really long line that shoule not show up",
+                "quantity": "2",
+                "licenseKey": [
+                    "Q2CW-CV2E-A4DM",
+                    "Q2CW-FBLF-9XV9",
+                    "Q2CW-CV2E-A4DM",
+                    "Q2CW-FBLF-9XV9",
+                    "Q2CW-CV2E-A4DM",
+                    "Q2CW-FBLF-9XV9",
+                    "Q2CW-CV2E-A4DM",
+                    "Q2CW-FBLF-9XV9"
+                ]
+            },
+            {
+                "lineNumber": "6.0",
+                "sku": "MR42-HW",
+                "description": "Meraki MR42 Cloud Managed AP",
+                "quantity": "2",
+                "licenseKey": [
+                    "Q2CW-CV2E-A4DM",
+                    "Q2CW-FBLF-9XV9"
+                ]
+            }
+        ],
+        "subscriptons": []
+        
+    },
     "order-header": {
         "orderNumber": "70-Q90MV-11",
         "orderDate": "2021-08-15",
