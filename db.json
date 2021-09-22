@@ -702,8 +702,8 @@
         "subscriptons": [
             {
                 "lineNumber": "5.0",
-                "description": "CON-SNT-SMS-1",
-                "sku": "",
+                "description": "SNTC-8X5XNBD, SMS-1",
+                "sku": "CON-SNT-SMS-1",
                 "contractNumber": "201730282",
                 "contractStatus": "N/A",
                 "startDate": "10/31/2019",
@@ -711,8 +711,8 @@
             },
             {
                 "lineNumber": "5.0",
-                "description": "CON-SNT-SMS-1",
-                "sku": "",
+                "description": "SNTC-8X5XNBD, SMS-1, SNTC-8X5XNBD, SMS-1",
+                "sku": "CON-SNT-SMS-1",
                 "contractNumber": "201730282",
                 "contractStatus": "N/A",
                 "startDate": "10/31/2019",
@@ -720,8 +720,8 @@
             },
             {
                 "lineNumber": "5.0",
-                "description": "CON-SNT-SMS-1",
-                "sku": "",
+                "description": "SNTC-8X5XNBD, SMS-1, SNTC-8X5XNBD, SMS-1, SNTC-8X5XNBD, SMS-1, SNTC-8X5XNBD, SMS-1",
+                "sku": "CON-SNT-SMS-1",
                 "contractNumber": "201730282",
                 "contractStatus": "N/A",
                 "startDate": "10/31/2019",
