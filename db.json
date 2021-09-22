@@ -692,7 +692,7 @@
         "licenses": [
             {
                 "lineNumber": "6.0",
-                "sku": "MR42-HW",
+                "sku": "MR42-HW dfadfa dfa df dfa",
                 "description": "Meraki MR42 Cloud Managed really long line that shoule not show up",
                 "quantity": "2",
                 "licenseKey": [
@@ -714,7 +714,7 @@
             },
             {
                 "lineNumber": "6.0",
-                "sku": "MR42-HW",
+                "sku": "MR42-HW dfafd",
                 "description": "Meraki MR42 Cloud Managed AP really long line that shoule not show up",
                 "quantity": "2",
                 "licenseKey": [
