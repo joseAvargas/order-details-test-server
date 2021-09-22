@@ -689,57 +689,36 @@
     "software-services": {
         "endUserAccount": "ecri.org",
         "resellerAccount": "redriver.com",
-        "licenses": [
+        "licenses": [],
+        "subscriptons": [
             {
-                "lineNumber": "6.0",
-                "sku": "MR42-HW",
-                "description": "Meraki MR42 Cloud Managed really long line that shoule not show up",
-                "quantity": "2",
-                "licenseKey": [
-                    "Q2CW-CV2E-A4DM",
-                    "Q2CW-FBLF-9XV9"
-                ]
+                "lineNumber": "5.0",
+                "description": "SNTC-8X5XNBD, SMS-1",
+                "sku": "CON-SNT-SMS-1",
+                "contractNumber": "201730282",
+                "contractStatus": "N/A",
+                "startDate": "10/31/2019",
+                "endDate": "07/01/2022" 
             },
             {
-                "lineNumber": "6.0",
-                "sku": "MR42-HW",
-                "description": "Meraki MR42 Cloud Managed AP",
-                "quantity": "2",
-                "licenseKey": [
-                    "Q2CW-CV2E-A4DM",
-                    "Q2CW-FBLF-9XV9",
-                    "Q2CW-CV2E-A4DM",
-                    "Q2CW-FBLF-9XV9"
-                ]
+                "lineNumber": "5.0",
+                "description": "SNTC-8X5XNBD, SMS-1, SNTC-8X5XNBD, SMS-1",
+                "sku": "CON-SNT-SMS-1",
+                "contractNumber": "201730282",
+                "contractStatus": "N/A",
+                "startDate": "10/31/2019",
+                "endDate": "07/01/2022" 
             },
             {
-                "lineNumber": "6.0",
-                "sku": "MR42-HW",
-                "description": "Meraki MR42 Cloud Managed AP really long line that shoule not show up",
-                "quantity": "2",
-                "licenseKey": [
-                    "Q2CW-CV2E-A4DM",
-                    "Q2CW-FBLF-9XV9",
-                    "Q2CW-CV2E-A4DM",
-                    "Q2CW-FBLF-9XV9",
-                    "Q2CW-CV2E-A4DM",
-                    "Q2CW-FBLF-9XV9",
-                    "Q2CW-CV2E-A4DM",
-                    "Q2CW-FBLF-9XV9"
-                ]
-            },
-            {
-                "lineNumber": "6.0",
-                "sku": "MR42-HW",
-                "description": "Meraki MR42 Cloud Managed AP",
-                "quantity": "2",
-                "licenseKey": [
-                    "Q2CW-CV2E-A4DM",
-                    "Q2CW-FBLF-9XV9"
-                ]
+                "lineNumber": "5.0",
+                "description": "SNTC-8X5XNBD, SMS-1, SNTC-8X5XNBD, SMS-1, SNTC-8X5XNBD, SMS-1, SNTC-8X5XNBD, SMS-1",
+                "sku": "CON-SNT-SMS-1",
+                "contractNumber": "201730282",
+                "contractStatus": "N/A",
+                "startDate": "10/31/2019",
+                "endDate": "07/01/2022" 
             }
-        ],
-        "subscriptons": []
+    ]
         
     },
     "order-header": {
