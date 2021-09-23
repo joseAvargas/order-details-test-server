@@ -1,5 +1,5 @@
 {
-    "order-lines": {
+    "orderLines": {
         "data": [
             {
                 "lineNumber": "1.0",
@@ -478,7 +478,7 @@
         }
 
     },
-    "tracking-numbers": [
+    "tracking": [
         {
             "type": "inTransit",
             "displayName": "In Transit",
@@ -686,7 +686,7 @@
             ]
         }
     ],
-    "software-services": {
+    "SoftwareServiceLicenceData": {
         "endUserAccount": "ecri.org",
         "resellerAccount": "redriver.com",
         "licenses": [
@@ -769,7 +769,7 @@
             }]
         
     },
-    "order-header": {
+    "orderHeader": {
         "orderNumber": "70-Q90MV-11",
         "orderDate": "2021-08-15",
         "resellerPO": "TEST PO",
