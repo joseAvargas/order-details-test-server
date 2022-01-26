@@ -4,7 +4,7 @@
             {
                 "lineNumber": "1.0",
                 "description": "Wifi Chassis In Staineless Steel",
-                "status": "Delivered",
+                "status": "",
                 "sku": "8HH942fasdfasdfasd",
                 "vpn": "MYFQ2LL/A",
                 "hasAncillaryInfo": false,
@@ -614,7 +614,7 @@
                 ]
             }
         ],
-        "subscriptons": [
+        "subscriptions": [
             {
                 "lineNumber": "5.0",
                 "description": "SNTC-8X5XNBD, SMS-1",
