@@ -651,7 +651,8 @@
         "orderLines": [
             "this is an example comment",
             "amount has been paid in full by reseller, and this is a really long line",
-            "this is an example comment"
+            "this is another example comment",
+            ""
         ],
         "partnerLogoUrl": ""
     }
