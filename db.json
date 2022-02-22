@@ -10,7 +10,7 @@
                 "hasAncillaryInfo": false,
                 "quantityOrdered": 35,
                 "quantityShipped": 30,
-                "unitPrice": 3.95,
+                "'unitPrice'": 3.95,
                 "linePrice": 592.50,
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
@@ -648,7 +648,11 @@
         "hasTrackingNumbersData": true,
         "hasSoftwareServicesData": true,
         "orderComments": "",
-        "orderLines": "",
+        "orderLines": [
+            "this is an example comment",
+            "amount has been paid in full by reseller, and this is a really long line",
+            "this is an example comment"
+        ],
         "partnerLogoUrl": ""
     }
 }
