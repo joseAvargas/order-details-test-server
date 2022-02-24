@@ -647,13 +647,13 @@
         "hasSerialNumbersData": true,
         "hasTrackingNumbersData": true,
         "hasSoftwareServicesData": true,
-        "orderComments": "",
-        "orderLines": [
+        "orderComments": [
             "this is an example comment",
             "amount has been paid in full by reseller, and this is a really long line",
             "this is another example comment",
             ""
         ],
+        "orderLines": "",
         "partnerLogoUrl": ""
     }
 }
