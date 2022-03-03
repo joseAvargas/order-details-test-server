@@ -20,7 +20,8 @@
                 "serialNumberCount": 10,
                 "serviceContractSubscriptionCount": 10,
                 "licenseNumberCount": 10,
-                "childItems": []
+                "childItems": [],
+                "lineNotes": "This is a comment"
             },
             {
                 "lineNumber": "2.0",
@@ -33,6 +34,7 @@
                 "quantityShipped": 30,
                 "unitPrice": 3.95,
                 "linePrice": 592.50,
+                "lineNotes": "This is a comment",
                 "carrierInfo": {
                     "carrierName": "United Parcel Services",
                     "carrierTrackingNumber": "9123093841011",
@@ -206,10 +208,12 @@
                         "unitPrice": 3.95,
                         "linePrice": 592.50
                     }
-                ]
+                ],
+                "lineNotes": ""
             },
             {
                 "lineNumber": "4.0",
+                "lineNotes": null,
                 "description": "Wifi Chassis In Staineless Steel this is an even longer line of text that should disappear",
                 "status": "Delivered",
                 "sku": "8HH942",
@@ -231,6 +235,7 @@
             },
             {
                 "lineNumber": "5.0",
+                "lineNotes": "This is a really long comment description dfadsfasd dfa dfa df asf esr e rq ewr qewrfasdfadsf",
                 "description": "Wifi Chassis In Staineless Steel this is a really long line of text",
                 "status": "Backordered",
                 "sku": "8HH942",
@@ -252,6 +257,7 @@
             },
             {
                 "lineNumber": "6.0",
+                "lineNotes": "EU#- 000363813 ALFRED-WEGENER-INSTITUT || MC# C || SPECIAL BID NUMBER -                                                                                               SB || MDMF-3978565-2109-3                                                                                                SB || 52605246",
                 "description": "Wifi Chassis In Staineless Steel",
                 "status": "Backordered",
                 "sku": "8HH942",
@@ -273,6 +279,7 @@
             },
             {
                 "lineNumber": "7.0",
+                "lineNotes": "This is a comment",
                 "description": "Wifi Chassis In Staineless Steel this is an even longer line of text that should disappear",
                 "status": "Backordered",
                 "sku": "8HH942fasdfas",
@@ -330,6 +337,7 @@
             },
             {
                 "lineNumber": "8.0",
+                "lineNotes": "This is a comment",
                 "description": "Wifi Chassis In Staineless Steel",
                 "status": "In Transit",
                 "sku": "8HH942",
@@ -351,6 +359,7 @@
             },
             {
                 "lineNumber": "9.0",
+                "lineNotes": "This is a comment",
                 "description": "Wifi Chassis In Staineless Steel this is a really long line of text",
                 "status": "In Transit",
                 "sku": "8HH942",
@@ -372,6 +381,7 @@
             },
             {
                 "lineNumber": "10.0",
+                "lineNotes": " ",
                 "description": "Wifi Chassis In Staineless Steel this is an even longer line of text that should disappear",
                 "status": "In Transit",
                 "sku": "8HH942",
@@ -393,6 +403,7 @@
             },
             {
                 "lineNumber": "11.0",
+                "lineNotes": "This is a comment",
                 "description": "Wifi Chassis In Staineless Steel",
                 "status": "In Transit",
                 "sku": "8HH942",
@@ -450,6 +461,7 @@
             },
             {
                 "lineNumber": "12.0",
+                "lineNotes": null,
                 "description": "Wifi Chassis In Staineless Steel this is a really long line of text",
                 "status": "In Transit",
                 "sku": "8HH942",
